@@ -27,7 +27,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 ## Dashboard
 
-![]
+![Vrinda Store Analytics Project](vrinda_store_dashboard.png)
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
