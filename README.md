@@ -4,7 +4,7 @@
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
 
 ## Dataset used
-- <a href="">Dataset</a>
+- <a href="https://github.com/tanuj-choudhary-github/Vrinda_Store_Analysis_Report/blob/main/Vrinda_Store_Data_Analysis.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 - Compare the sales and orders using single chart.
@@ -17,7 +17,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Highest selling category?
 - Percentage of Total Orders delivered
 
-- Dashboard Interaction <a href="">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/tanuj-choudhary-github/Vrinda_Store_Analysis_Report/blob/main/vrinda_store_dashboard.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -27,7 +27,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+![]
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
